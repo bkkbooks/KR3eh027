@@ -1,0 +1,1373 @@
+canonical_identifier: bkk:krp/KR3eh027/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh027/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中國內科醫鑑
+  identifiers:
+    krp: KR3eh027
+  tags:
+    kr-categories: KR3eh
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh027.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh027_000-jc.yaml, hash: 'sha256:9232779c3057f0ba27c007d5ff46114887562d5616b99a21a523140be91ad5a2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh027_000-jc.markers.yaml, hash: 'sha256:7c2551418a9f07d18242338c6a41062ba838a0d499df534c4ba8e30705e5ccba'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 698
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 309
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.h1s1
+    span:
+    - body
+    - 309
+    - 28258
+  label: 前篇證候與治法概編
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d2
+    span:
+    - body
+    - 318
+    - 2678
+  label: 第一章頭痛眩暈耳鳴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d2d2
+    span:
+    - body
+    - 327
+    - 996
+  label: 頭痛
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d2d3
+    span:
+    - body
+    - 996
+    - 1571
+  label: 眩暈
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d2d4
+    span:
+    - body
+    - 1571
+    - 1743
+  label: 耳鳴
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d2d5
+    span:
+    - body
+    - 1743
+    - 2678
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d3
+    span:
+    - body
+    - 2678
+    - 6157
+  label: 第二章嘔吐吐血喀血吞酸嘈雜噦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d3d2
+    span:
+    - body
+    - 2692
+    - 3816
+  label: 嘔吐
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d3d3
+    span:
+    - body
+    - 3816
+    - 4426
+  label: 吐血喀血
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d3d4
+    span:
+    - body
+    - 4426
+    - 4541
+  label: 吞酸嘈雜
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d3d5
+    span:
+    - body
+    - 4541
+    - 4613
+  label: 噦
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d3d6
+    span:
+    - body
+    - 4613
+    - 5189
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d3d7
+    span:
+    - body
+    - 5189
+    - 6157
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d4
+    span:
+    - body
+    - 6157
+    - 8567
+  label: 第三章便秘下痢下血子宮出血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d4d2
+    span:
+    - body
+    - 6170
+    - 6741
+  label: 便秘
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d4d3
+    span:
+    - body
+    - 6741
+    - 7426
+  label: 下痢
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d4d4
+    span:
+    - body
+    - 7426
+    - 7740
+  label: 下血子宮出血
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d4d5
+    span:
+    - body
+    - 7740
+    - 8567
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d5
+    span:
+    - body
+    - 8567
+    - 9665
+  label: 第四章小便自利遺尿小便不利淋瀝血尿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d5d2
+    span:
+    - body
+    - 8584
+    - 8822
+  label: 小便自利
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d5d3
+    span:
+    - body
+    - 8822
+    - 8989
+  label: 遺尿
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d5d4
+    span:
+    - body
+    - 8989
+    - 9330
+  label: 小便不利淋瀝
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d5d5
+    span:
+    - body
+    - 9330
+    - 9379
+  label: 血尿
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d5d6
+    span:
+    - body
+    - 9379
+    - 9665
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d6
+    span:
+    - body
+    - 9665
+    - 10747
+  label: 第五章口渴咽乾口燥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d6d2
+    span:
+    - body
+    - 9674
+    - 10285
+  label: 口渴
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d6d3
+    span:
+    - body
+    - 10285
+    - 10747
+  label: 咽乾口燥
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d7
+    span:
+    - body
+    - 10747
+    - 12072
+  label: 第六章咳嗽喘
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d7d2
+    span:
+    - body
+    - 10753
+    - 11482
+  label: 咳嗽
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d7d3
+    span:
+    - body
+    - 11482
+    - 11816
+  label: 喘
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d7d4
+    span:
+    - body
+    - 11816
+    - 12072
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d8
+    span:
+    - body
+    - 12072
+    - 13595
+  label: 第七章胃內停水留飲心下痞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d8d2
+    span:
+    - body
+    - 12084
+    - 12671
+  label: 胃內停水
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d8d3
+    span:
+    - body
+    - 12671
+    - 13442
+  label: 心下痞
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d8d4
+    span:
+    - body
+    - 13442
+    - 13595
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d9
+    span:
+    - body
+    - 13595
+    - 14517
+  label: 第八章心悸亢進動悸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d9d2
+    span:
+    - body
+    - 13604
+    - 14319
+  label: 心悸亢進
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d9d3
+    span:
+    - body
+    - 14319
+    - 14517
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d10
+    span:
+    - body
+    - 14517
+    - 19240
+  label: 第九章浮腫水腫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d10d2
+    span:
+    - body
+    - 14524
+    - 15620
+  label: 浮腫水腫
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d10d3
+    span:
+    - body
+    - 15620
+    - 19240
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d11
+    span:
+    - body
+    - 19240
+    - 21603
+  label: 第十章熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d11d2
+    span:
+    - body
+    - 19244
+    - 21603
+  label: 熱
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d12
+    span:
+    - body
+    - 21603
+    - 24817
+  label: 第十一章不眠讝語狂癇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d12d2
+    span:
+    - body
+    - 21613
+    - 21885
+  label: 不眠
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d12d3
+    span:
+    - body
+    - 21885
+    - 22222
+  label: 讝語
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d12d4
+    span:
+    - body
+    - 22222
+    - 22588
+  label: 狂癇
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d12d5
+    span:
+    - body
+    - 22588
+    - 24817
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d13
+    span:
+    - body
+    - 24817
+    - 26936
+  label: 第十二章胸痛腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d13d2
+    span:
+    - body
+    - 24825
+    - 25362
+  label: 胸痛
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d13d3
+    span:
+    - body
+    - 25362
+    - 26936
+  label: 腹痛
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4d14
+    span:
+    - body
+    - 26936
+    - 28258
+  label: 第十三章腹滿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d14d2
+    span:
+    - body
+    - 26942
+    - 27662
+  label: 腹滿
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d4.d14d3
+    span:
+    - body
+    - 27662
+    - 28258
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.h1s1
+    span:
+    - body
+    - 28258
+    - 106637
+  label: 後篇病證各論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d2
+    span:
+    - body
+    - 28264
+    - 30495
+  label: 第一章風邪
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d2d46
+    span:
+    - body
+    - 30163
+    - 30495
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d3
+    span:
+    - body
+    - 30495
+    - 32462
+  label: 第二章氣管枝炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d3d50
+    span:
+    - body
+    - 32428
+    - 32462
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d4
+    span:
+    - body
+    - 32462
+    - 35220
+  label: 第三章氣管枝喘息
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d4d42
+    span:
+    - body
+    - 33790
+    - 34216
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d4d43
+    span:
+    - body
+    - 34216
+    - 35220
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d5
+    span:
+    - body
+    - 35220
+    - 36897
+  label: 第四章肺炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d5d18
+    span:
+    - body
+    - 35760
+    - 36897
+  label: 乙纖維素性肺炎
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d6
+    span:
+    - body
+    - 36897
+    - 37845
+  label: 第五章肺壞疽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d6d18
+    span:
+    - body
+    - 37468
+    - 37845
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d7
+    span:
+    - body
+    - 37845
+    - 38378
+  label: 第六章肺氣腫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d7d14
+    span:
+    - body
+    - 38201
+    - 38378
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d8
+    span:
+    - body
+    - 38378
+    - 39633
+  label: 第七章肋膜炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d8d18
+    span:
+    - body
+    - 39105
+    - 39596
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d8d19
+    span:
+    - body
+    - 39596
+    - 39633
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d9
+    span:
+    - body
+    - 39633
+    - 46698
+  label: 第八章肺結核
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d9d96
+    span:
+    - body
+    - 43417
+    - 45111
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d9d97
+    span:
+    - body
+    - 45111
+    - 46698
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d10
+    span:
+    - body
+    - 46698
+    - 48617
+  label: 第九章心臟瓣膜症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d11
+    span:
+    - body
+    - 48617
+    - 49502
+  label: 第十章心囊炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d12
+    span:
+    - body
+    - 49502
+    - 49735
+  label: 第十一章脂肪心臟
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d13
+    span:
+    - body
+    - 49735
+    - 50403
+  label: 第十二章食道炎及食道狹窄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d13d16
+    span:
+    - body
+    - 50269
+    - 50403
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d14
+    span:
+    - body
+    - 50403
+    - 53373
+  label: 第十三章胃加答兒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d14d64
+    span:
+    - body
+    - 51565
+    - 52092
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d14d65
+    span:
+    - body
+    - 52092
+    - 53373
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d15
+    span:
+    - body
+    - 53373
+    - 54214
+  label: 第十四章胃潰瘍
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d16
+    span:
+    - body
+    - 54214
+    - 55255
+  label: 第十五章胃癌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d16d20
+    span:
+    - body
+    - 54916
+    - 55255
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d17
+    span:
+    - body
+    - 55255
+    - 56328
+  label: 第十六章胃擴張
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d17d26
+    span:
+    - body
+    - 55845
+    - 56071
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d17d27
+    span:
+    - body
+    - 56071
+    - 56328
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d18
+    span:
+    - body
+    - 56328
+    - 56668
+  label: 第十七章胃下垂及腸下垂症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d19
+    span:
+    - body
+    - 56668
+    - 56901
+  label: 第十八章胃緊張力衰弱症胃阿篤尼症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d20
+    span:
+    - body
+    - 56901
+    - 57129
+  label: 第十九章胃酸過多症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d21
+    span:
+    - body
+    - 57129
+    - 57960
+  label: 第二十章腸加答兒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d22
+    span:
+    - body
+    - 57960
+    - 60078
+  label: 第二十一章盲腸炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d22d40
+    span:
+    - body
+    - 59367
+    - 60078
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d23
+    span:
+    - body
+    - 60078
+    - 60751
+  label: 第二十二章腸疊積症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d24
+    span:
+    - body
+    - 60751
+    - 62363
+  label: 第二十三章腸寄生蟲病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d24d54
+    span:
+    - body
+    - 62161
+    - 62363
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d25
+    span:
+    - body
+    - 62363
+    - 65722
+  label: 第二十四章黃疸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d25d46
+    span:
+    - body
+    - 63582
+    - 65722
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d26
+    span:
+    - body
+    - 65722
+    - 66203
+  label: 第二十五章加答兒性膽管炎及膽囊炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d27
+    span:
+    - body
+    - 66203
+    - 67241
+  label: 第二十六章膽石症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d27d14
+    span:
+    - body
+    - 66578
+    - 67241
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d28
+    span:
+    - body
+    - 67241
+    - 68219
+  label: 第二十七章結核性腹膜炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d28d24
+    span:
+    - body
+    - 67969
+    - 68219
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d29
+    span:
+    - body
+    - 68219
+    - 68935
+  label: 第二十八章腸結核
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d30
+    span:
+    - body
+    - 68935
+    - 71389
+  label: 第二十九章腎臟炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d31
+    span:
+    - body
+    - 71389
+    - 72803
+  label: 第三十章腎臟結石
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d32
+    span:
+    - body
+    - 72803
+    - 73409
+  label: 第三十一章腎盂炎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d33
+    span:
+    - body
+    - 73409
+    - 76338
+  label: 第三十二章糖尿病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d33d44
+    span:
+    - body
+    - 74759
+    - 75382
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d33d45
+    span:
+    - body
+    - 75382
+    - 76338
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d34
+    span:
+    - body
+    - 76338
+    - 78330
+  label: 第三十三章腳氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d34d44
+    span:
+    - body
+    - 77920
+    - 78330
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d35
+    span:
+    - body
+    - 78330
+    - 79709
+  label: 第三十四章拔沒篤氏病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d35d24
+    span:
+    - body
+    - 79282
+    - 79709
+  label: 實驗例
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d36
+    span:
+    - body
+    - 79709
+    - 81448
+  label: 第三十五章神經病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d36d72
+    span:
+    - body
+    - 81401
+    - 81448
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d37
+    span:
+    - body
+    - 81448
+    - 83532
+  label: 第三十六章末梢性神經麻痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d37d58
+    span:
+    - body
+    - 83109
+    - 83532
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d38
+    span:
+    - body
+    - 83532
+    - 84828
+  label: 第三十七章動脈硬化症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d39
+    span:
+    - body
+    - 84828
+    - 88285
+  label: 第三十八章腦溢血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d39d58
+    span:
+    - body
+    - 87289
+    - 88285
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d40
+    span:
+    - body
+    - 88285
+    - 91442
+  label: 第三十九章癲癇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d40d86
+    span:
+    - body
+    - 90513
+    - 91442
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d41
+    span:
+    - body
+    - 91442
+    - 93434
+  label: 第四十章神經衰弱症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d41d56
+    span:
+    - body
+    - 93340
+    - 93434
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d42
+    span:
+    - body
+    - 93434
+    - 95169
+  label: 第四十一章歇斯的里
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d43
+    span:
+    - body
+    - 95169
+    - 100238
+  label: 第四十二章赤痢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d43d42
+    span:
+    - body
+    - 96387
+    - 100238
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d44
+    span:
+    - body
+    - 100238
+    - 102439
+  label: 第四十三章霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d44d28
+    span:
+    - body
+    - 102112
+    - 102439
+  label: 備考
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5d45
+    span:
+    - body
+    - 102439
+    - 106637
+  label: 第四十四章腸窒扶斯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh027_jc_000-d5.d45d80
+    span:
+    - body
+    - 105482
+    - 106637
+  label: 備考
+  type: section
+  level: 3
+hash: sha256:244ad780c22eb87c8ab51a87f80d9111396c9230de1170d484956481e5a2afbc
